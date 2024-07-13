@@ -33,7 +33,6 @@
   <li>
     Achieved the best performance with a Logistic Regression model using the BERT embeddings. Obtained an accuracy of 0.94, 0.92 ROC-AUC, and an F1 score of 0.85.
   </li>
-<br>
 
 ---
 
