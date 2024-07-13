@@ -3,7 +3,7 @@
 ---
 
 ## [Forecasting Churn of Customers](https://github.com/vinipta-s/Forecasting_Churn_of_Customers/tree/main)
-<br>
+
 <b>A telecom operator aimed to forecast customer churn, focusing on building a predictive model with an AUC-ROC score of at least 0.87.
 Feature engineered was done with the available features.</b>
 <li>
