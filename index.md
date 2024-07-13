@@ -12,13 +12,11 @@ Feature engineered was done with the available features.</b>
 <li>
   Achieved the highest performance with the CatBoostClassifier, tuned through StratifiedKFold and RandomizedSearchCV for optimal hyperparameters.
 </li>
-
-
-
+<br>
 ---
 
 ## [Starbucks Reviews Analysis and Sentiment Prediction](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)
-<br>
+
 <b> Analyzed Starbucks customer reviews from various locations within the US to identify popular review topics and build a model to classify reviews as positive or negative using two different text processing methods.</b>
 <li>
   Cleaned and filtered dataset to include only US-based reviews.
@@ -35,16 +33,12 @@ Feature engineered was done with the available features.</b>
 <li>
   Achieved the best performance with a Logistic Regression model using the BERT embeddings. Obtained an accuracy of 0.94, 0.92 ROC-AUC, and an F1 score of 0.85.
 </li>
-
+<br>
 ---
 
-### Category Name 2
+### More Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Forecasting with Time Series](https://github.com/vinipta-s/Time-Series-Regression-Forecasting)
 
 ---
 
