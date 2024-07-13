@@ -18,7 +18,8 @@ Feature engineered was done with the available features.</b>
 
 
 ---
-[Starbucks Reviews Analysis and Sentiment Prediction](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)
+<h2>[Starbucks Reviews Analysis and Sentiment Prediction](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)</h2>
+<br><br>
 <b> Analyzed Starbucks customer reviews from various locations within the US to identify popular review topics and build a model to classify reviews as positive or negative using two different text processing methods.</b>
 <li>
   Cleaned and filtered dataset to include only US-based reviews.
