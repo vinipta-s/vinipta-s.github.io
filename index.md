@@ -12,7 +12,6 @@
   <li>
     Achieved the highest performance with the CatBoostClassifier, tuned through StratifiedKFold and RandomizedSearchCV for optimal hyperparameters.
   </li>
-  <br>
   
 ---
 
