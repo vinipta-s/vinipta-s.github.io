@@ -4,15 +4,14 @@
 
 ### Category Name 1 
 
-[Forecasting Churn of Customers](/sample_page)
+[Forecasting Churn of Customers](https://github.com/vinipta-s/Forecasting_Churn_of_Customers/tree/main)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[](http://example.com/)
+
 
 ---
 
