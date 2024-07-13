@@ -12,7 +12,7 @@
   <li>
     Achieved the highest performance with the CatBoostClassifier, tuned through StratifiedKFold and RandomizedSearchCV for optimal hyperparameters.
   </li>
-  
+
 ---
 
 ## [Starbucks Reviews Analysis and Sentiment Prediction](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)
