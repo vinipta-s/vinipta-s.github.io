@@ -36,9 +36,9 @@
 
 ---
 
-### More Projects
+# More Projects
 
-- [Forecasting with Time Series](https://github.com/vinipta-s/Time-Series-Regression-Forecasting)
+- ##[Forecasting with Time Series](https://github.com/vinipta-s/Time-Series-Regression-Forecasting)
 
 ---
 
