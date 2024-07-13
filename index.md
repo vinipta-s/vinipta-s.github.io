@@ -5,6 +5,11 @@
 ### Category Name 1 
 
 [Forecasting Churn of Customers](https://github.com/vinipta-s/Forecasting_Churn_of_Customers/tree/main)
+<b>A telecom operator aimed to forecast customer churn, focusing on building a predictive model with an AUC-ROC score of at least 0.87.
+Feature engineered was done with the available features.</b>
+Developed machine learning models, including LogisticRegression, RandomForestClassifier, KNeighborsClassifier, CatBoostClassifier and a VotingClassifier, to identify customers at risk of churning.
+Achieved the highest performance with the CatBoostClassifier, tuned through StratifiedKFold and RandomizedSearchCV for optimal hyperparameters.
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
