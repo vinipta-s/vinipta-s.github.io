@@ -18,10 +18,26 @@ Feature engineered was done with the available features.</b>
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-
+[Starbucks Reviews Analysis and Sentiment Prediction](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)
+<b> Analyzed Starbucks customer reviews from various locations within the US to identify popular review topics and build a model to classify reviews as positive or negative using two different text processing methods.</b>
+<li>
+  Cleaned and filtered dataset to include only US-based reviews.
+</li>
+<li>
+  Method 1: Applied text normalization techniques, followed by lemmatization using NLTK, and obtained padded sequences.
+</li>
+<li>
+  Method 2: BERT (Bidirectional Encoder Representations from Transformers)
+</li>
+<li>
+  Trained and evaluated Logistic Regression, RandomForestClassifier and LGBMClassifier models on each processed review set. 
+</li>
+<li>
+  Achieved the best performance with a Logistic Regression model using the BERT embeddings. Obtained an accuracy of 0.94, 0.92 ROC-AUC, and an F1 score of 0.85.
+</li>
 ---
-[](http://example.com/)
+
+
 
 
 ---
