@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Forecasting Churn of Customers](https://github.com/vinipta-s/Forecasting_Churn_of_Customers/tree/main)
+## [Forecasting Churn of Customers](https://github.com/vinipta-s/Forecasting_Churn_of_Customers/tree/main)
 <br><br>
 <b>A telecom operator aimed to forecast customer churn, focusing on building a predictive model with an AUC-ROC score of at least 0.87.
 Feature engineered was done with the available features.</b>
@@ -18,9 +18,8 @@ Feature engineered was done with the available features.</b>
 
 
 ---
-<h1>
-  [Starbucks Reviews Analysis and Sentiment Prediction](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)
-</h1>
+
+## [Starbucks Reviews Analysis and Sentiment Prediction](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)
 <br><br>
 <b> Analyzed Starbucks customer reviews from various locations within the US to identify popular review topics and build a model to classify reviews as positive or negative using two different text processing methods.</b>
 <li>
