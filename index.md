@@ -1,8 +1,6 @@
-## Portfolio
+# Projects
 
 ---
-
-### Projects
 
 ## [Forecasting Churn of Customers](https://github.com/vinipta-s/Forecasting_Churn_of_Customers/tree/main)
 <br><br>
