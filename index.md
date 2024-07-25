@@ -37,7 +37,7 @@
 ---
 
 ## [Pen America’s Index of Book Bans in Schools Tableau Visualization](https://public.tableau.com/views/PenAmericasIndexofBookBansinSchools2022-23/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-  <b>Developed an interactive Tableau dashboard to visualize and analyze book bans in schools.</b>
+  <b>Created an interactive Tableau dashboard to visualize and analyze book bans in schools.</b>
     <li>
       Developed a map, pie chart and bar plots to display data on bans by status, states, top banned titles and authors with the most banned titles. 
     </li>
