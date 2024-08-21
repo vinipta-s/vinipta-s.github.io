@@ -60,8 +60,8 @@
 
 # More Projects
 
-- ## [Forecasting with Time Series (taxi orders at airports)](https://github.com/vinipta-s/Time-Series-Regression-Forecasting)
-- ## [Pen America’s Index of Book Bans in Schools Tableau Visualization](https://public.tableau.com/views/PenAmericasIndexofBookBansinSchools2022-23/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+- ### [Forecasting with Time Series (taxi orders at airports)](https://github.com/vinipta-s/Time-Series-Regression-Forecasting)
+- ### [Pen America’s Index of Book Bans in Schools Tableau Visualization](https://public.tableau.com/views/PenAmericasIndexofBookBansinSchools2022-23/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ---
 
