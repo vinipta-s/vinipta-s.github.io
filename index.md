@@ -21,9 +21,8 @@
 ## [Starbucks Reviews Analysis and Sentiment Prediction](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)
 
   <b> Analyzed US reviews using text normalization and BERT embeddings, achieving 0.94 accuracy with Logistic Regression, and visualized trends with interactive Tableau maps and plots.</b>
-  <li>
-    [Analysis and Sentiment Prediction (GitHub)](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)
-  </li>
+  ### [Analysis and Sentiment Prediction (GitHub)](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)
+
     <li>
       Cleaned and filtered dataset for US location reviews.
     </li>
