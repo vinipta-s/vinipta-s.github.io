@@ -35,6 +35,8 @@
   </li>
   
 ### [Tableau Visualization] (https://public.tableau.com/app/profile/vinipta.sabbithi/viz/StarbucksReviewsVisualization/Dashboard1)
+## [Introvert Queries (blog)](https://introvertqueries.com/) 
+  <li>
     <li>
     Loaded cleaned and filtered data to Tableau to create a map and bar plots, showcasing review trends over time and by state.
   </li>
@@ -44,7 +46,7 @@
 
 ---
 
-## [Introvert Queries](https://introvertqueries.com/) 
+## [Introvert Queries (blog)](https://introvertqueries.com/) 
   <li>
     Developed and deployed the website with Next.js (frontend) and Firebase Functions (backend). 
   </li>
