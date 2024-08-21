@@ -23,39 +23,39 @@
   
   ### [Analysis and Sentiment Prediction (GitHub)](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)
 
-    <li>
-      Cleaned and filtered dataset for US location reviews.
-    </li>
-    <li>
-      Methods: text normalization with NLTK and BERT (Bidirectional Encoder Representations from Transformers). 
-    </li>
-    <li>
-      Models: Trained and evaluated Logistic Regression, RandomForestClassifier, and LGBMClassifier.
-    </li>
-    <li>
-      Best performance: Logistic Regression with BERT embeddings, achieving 0.94 accuracy, 0.92 ROC-AUC, and 0.85 F1 score. 
-    </li>
+  <li>
+    Cleaned and filtered dataset for US location reviews.
+  </li>
+  <li>
+    Methods: text normalization with NLTK and BERT (Bidirectional Encoder Representations from Transformers). 
+  </li>
+  <li>
+    Models: Trained and evaluated Logistic Regression, RandomForestClassifier, and LGBMClassifier.
+  </li>
+  <li>
+    Best performance: Logistic Regression with BERT embeddings, achieving 0.94 accuracy, 0.92 ROC-AUC, and 0.85 F1 score. 
+  </li>
     
   ### [Tableau Visualization](https://public.tableau.com/app/profile/vinipta.sabbithi/viz/StarbucksReviewsVisualization/Dashboard1)
-    <li>
-      Loaded cleaned and filtered data to Tableau to create a map and bar plots, showcasing review trends over time and by state.
-    </li>
-    <li>
-      Implemented interactive filters and cross-chart dynamics for deeper insights.
-    </li>
+  <li>
+    Loaded cleaned and filtered data to Tableau to create a map and bar plots, showcasing review trends over time and by state.
+  </li>
+  <li>
+    Implemented interactive filters and cross-chart dynamics for deeper insights.
+  </li>
 
 ---
 
 ## [Introvert Queries](https://introvertqueries.com/) 
-    <li>
-      Developed and deployed the website with Next.js (frontend) and Firebase Functions (backend). 
-    </li>
-    <li>
-      Publishing weekly posts on introversion, covering personal experiences, scientific insights, and practical advice.
-    </li>
-    <li>
-      Building a foundation of thoughtful and well-crafted posts to attract future readers and foster a supportive community.
-    </li>
+  <li>
+    Developed and deployed the website with Next.js (frontend) and Firebase Functions (backend). 
+  </li>
+  <li>
+    Publishing weekly posts on introversion, covering personal experiences, scientific insights, and practical advice.
+  </li>
+  <li>
+    Building a foundation of thoughtful and well-crafted posts to attract future readers and foster a supportive community.
+  </li>
 
 ---
 
