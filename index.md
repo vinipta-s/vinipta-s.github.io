@@ -35,7 +35,7 @@
   </li>
 
   
-### [Tableau Visualization](https://public.tableau.com/app/profile/vinipta.sabbithi/viz/StarbucksReviewsVisualization/Dashboard1) 
+### [Tableau Visualization:](https://public.tableau.com/app/profile/vinipta.sabbithi/viz/StarbucksReviewsVisualization/Dashboard1) 
   <li>
     Loaded cleaned and filtered data to Tableau to create a map and bar plots, showcasing review trends over time and by state.
   </li>
