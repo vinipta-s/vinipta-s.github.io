@@ -15,6 +15,8 @@
   <li>
     Achieved the best performance with CatBoostClassifier, optimized through StratifiedKFold and RandomizedSearchCV, with a 0.90 ROC-AUC, 0.84 accuracy, and 0.72 F1 score.
   </li>
+  <div style="margin-bottom: 5px;"></div>
+
 
 ---
 
@@ -42,6 +44,7 @@
   <li>
     Implemented interactive filters and cross-chart dynamics for deeper insights.
   </li>
+  <div style="margin-bottom: 5px;"></div>
 
 ---
 
@@ -55,6 +58,7 @@
   <li>
     Building a foundation of thoughtful and well-crafted posts to attract future readers and foster a supportive community.
   </li>
+  <div style="margin-bottom: 5px;"></div>
 
 ---
 
