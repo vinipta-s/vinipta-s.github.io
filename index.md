@@ -21,7 +21,6 @@
 ## US Starbucks Reviews 
 <b> Analyzed US reviews using text normalization and BERT embeddings, achieving 0.94 accuracy with Logistic Regression, and visualized trends with interactive Tableau maps and plots.</b>
 ### [Analysis and Sentiment Prediction (GitHub)](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction) 
-
   <li>
     Cleaned and filtered dataset for US location reviews.
   </li>
@@ -34,6 +33,7 @@
   <li>
     Best performance: Logistic Regression with BERT embeddings, achieving 0.94 accuracy, 0.92 ROC-AUC, and 0.85 F1 score. 
   </li>
+
   
 ### [Tableau Visualization](https://public.tableau.com/app/profile/vinipta.sabbithi/viz/StarbucksReviewsVisualization/Dashboard1) 
   <li>
