@@ -4,45 +4,59 @@
 
 ## [Forecasting Churn of Customers](https://github.com/vinipta-s/Forecasting_Churn_of_Customers/tree/main)
 
-  <b>A telecom operator aimed to forecast customer churn, focusing on building a predictive model with an AUC-ROC score of at least 0.87.
-  Feature engineered was done with the available features.</b>
+  <b>Developed a predictive model for telecom churn with 0.90 AUC-ROC score.
+  </b>
   <li>
-    Developed machine learning models, including LogisticRegression, RandomForestClassifier, KNeighborsClassifier, CatBoostClassifier and a VotingClassifier, to identify customers at risk of churning.
+    Feature engineering to derive new features from existing data.
   </li>
   <li>
-    Achieved the highest performance with the CatBoostClassifier, tuned through StratifiedKFold and RandomizedSearchCV for optimal hyperparameters.
+    Built and evaluated machine learning models, including Logistic Regression, RandomForestClassifier, KNeighborsClassifier, CatBoostClassifier, and VotingClassifier.
+  </li>
+  <li>
+    Achieved the best performance with CatBoostClassifier, optimized through StratifiedKFold and RandomizedSearchCV, with a 0.90 ROC-AUC, 0.84 accuracy, and 0.72 F1 score.
   </li>
 
 ---
 
 ## [Starbucks Reviews Analysis and Sentiment Prediction](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)
 
-  <b> Analyzed Starbucks customer reviews from various locations within the US to identify popular review topics and build a model to classify reviews as positive or negative using two different text processing methods.</b>
+  <b> Analyzed US reviews using text normalization and BERT embeddings, achieving 0.94 accuracy with Logistic Regression, and visualized trends with interactive Tableau maps and plots.</b>
   <li>
-    Cleaned and filtered dataset to include only US-based reviews.
+    [Analysis and Sentiment Prediction (GitHub)](https://github.com/vinipta-s/Starbucks_Reviews_Sentiment_Prediction)
   </li>
+    <li>
+      Cleaned and filtered dataset for US location reviews.
+    </li>
+    <li>
+      Methods: text normalization with NLTK and BERT (Bidirectional Encoder Representations from Transformers). 
+    </li>
+    <li>
+      Models: Trained and evaluated Logistic Regression, RandomForestClassifier, and LGBMClassifier.
+    </li>
+    <li>
+      Best performance: Logistic Regression with BERT embeddings, achieving 0.94 accuracy, 0.92 ROC-AUC, and 0.85 F1 score. 
+    </li>
   <li>
-    Method 1: Applied text normalization techniques, followed by lemmatization using NLTK, and obtained padded sequences.
+    [Tableau Visualization](https://public.tableau.com/app/profile/vinipta.sabbithi/viz/StarbucksReviewsVisualization/Dashboard1)
   </li>
-  <li>
-    Method 2: BERT (Bidirectional Encoder Representations from Transformers)
-  </li>
-  <li>
-    Trained and evaluated Logistic Regression, RandomForestClassifier and LGBMClassifier models on each processed review set. 
-  </li>
-  <li>
-    Achieved the best performance with a Logistic Regression model using the BERT embeddings. Obtained an accuracy of 0.94, 0.92 ROC-AUC, and an F1 score of 0.85.
-  </li>
+    <li>
+      Loaded cleaned and filtered data to Tableau to create a map and bar plots, showcasing review trends over time and by state.
+    </li>
+    <li>
+      Implemented interactive filters and cross-chart dynamics for deeper insights.
+    </li>
 
 ---
 
-## [Pen America’s Index of Book Bans in Schools Tableau Visualization](https://public.tableau.com/views/PenAmericasIndexofBookBansinSchools2022-23/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-  <b>Created an interactive Tableau dashboard to visualize and analyze book bans in schools.</b>
+## [Introvert Queries](https://introvertqueries.com/) 
     <li>
-      Developed a map, pie chart and bar plots to display data on bans by status, states, top banned titles and authors with the most banned titles. 
+      Developed and deployed the website with Next.js (frontend) and Firebase Functions (backend). 
     </li>
     <li>
-      Implemented interactive filters and cross-chart dynamics to enhance user exploration and data insights.
+      Publishing weekly posts on introversion, covering personal experiences, scientific insights, and practical advice.
+    </li>
+    <li>
+      Building a foundation of thoughtful and well-crafted posts to attract future readers and foster a supportive community.
     </li>
 
 ---
@@ -50,6 +64,7 @@
 # More Projects
 
 - ## [Forecasting with Time Series (taxi orders at airports)](https://github.com/vinipta-s/Time-Series-Regression-Forecasting)
+- ## [Pen America’s Index of Book Bans in Schools Tableau Visualization](https://public.tableau.com/views/PenAmericasIndexofBookBansinSchools2022-23/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ---
 
