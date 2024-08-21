@@ -33,7 +33,8 @@
   <li>
     Best performance: Logistic Regression with BERT embeddings, achieving 0.94 accuracy, 0.92 ROC-AUC, and 0.85 F1 score. 
   </li>
-<br>
+&nbsp;  
+
 ### [Tableau Visualization:](https://public.tableau.com/app/profile/vinipta.sabbithi/viz/StarbucksReviewsVisualization/Dashboard1) 
   <li>
     Loaded cleaned and filtered data to Tableau to create a map and bar plots, showcasing review trends over time and by state.
