@@ -1,3 +1,14 @@
+# About Me
+
+### Recent data science bootcamp graduate and soon-to-be college graduate with a major in Engineering Physics. My projects highlight skills in data analysis, data visualization and machine learning. I am seeking an internship to apply and further develop my expertise.
+
+---
+# Skills
+
+### Python (pandas, NumPy, NLTK, BERT) | Data Analysis | Data Visualization (Matplotlib, Plotly, Seaborn) | Machine Learning (scikit-learn, TensorFlow) | Tableau | Microsoft Excel | Writing | Basic HTML/CSS/Javascript
+
+---
+
 # Projects
 
 ---
