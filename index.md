@@ -48,7 +48,7 @@
   </li>  
 <div style="margin-bottom: 10px;"></div>
 
-### [Tableau Visualization](https://public.tableau.com/app/profile/vinipta.sabbithi/viz/StarbucksReviewsVisualization/Dashboard1) 
+### [Tableau Visualization](https://public.tableau.com/app/profile/vinipta.sabbithi/viz/StarbucksReviewsVisualization/Dashboard13) 
   <li>
     Loaded cleaned and filtered data to Tableau to create a map and bar plots, showcasing review trends over time and by state.
   </li>
@@ -61,7 +61,7 @@
 
 ## [Introvert Queries (blog)](https://introvertqueries.com/) 
   <li>
-    Developed and deployed the website with Next.js (frontend) and Firebase Functions (backend). 
+    Developed and deployed the website with Next.js for frontend and Firebase Functions for backend.
   </li>
   <li>
     Publishing weekly posts on introversion, covering personal experiences, scientific insights, and practical advice.
