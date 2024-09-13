@@ -1,6 +1,6 @@
 # About Me
 
-### Recent data science bootcamp graduate and soon-to-be college graduate with a major in Engineering Physics. My projects highlight skills in data analysis, data visualization and machine learning. I am seeking an internship to apply and further develop my expertise.
+### Aspiring Data Scientist with a strong foundation in data wrangling, analysis, visualization, and supervised learning. Eager to contribute to uncovering patterns, driving data-driven solutions, and delivering actionable insights.
 
 ---
 # Skills
