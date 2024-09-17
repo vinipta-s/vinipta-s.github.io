@@ -59,6 +59,24 @@
 
 ---
 
+## [Hypothesis Testing Phone Plan Revenues](https://github.com/vinipta-s/Hypothesis-Testing-Phone-Plan-Revenues)
+
+  <b>Used t-test and bootstrap mean confidence intervals to determine that the Ultimate plan generates significantly higher monthly revenue than the Surf plan at Megaline. 
+  </b>
+  <li>
+    Performed data cleaning, exploration, and visualization to understand customer behavior. 
+  </li>
+  <li>
+    Applied **Welch’s t-test** to determine significant differences in average monthly revenue, with a p-value of **3.17e-15** confirming a statistically significant difference. 
+  </li>
+  <li>
+    Additionally, used **bootstrap sampling** to calculate 95% confidence intervals, which showed that the **Ultimate plan consistently generated higher revenue** than the Surf plan. 
+  </li>
+  <div style="margin-bottom: 5px;"></div>
+
+---
+
+
 ## [Introvert Queries (blog)](https://introvertqueries.com/) 
   <li>
     Developed and deployed the website with Next.js for frontend and Firebase Functions for backend.
